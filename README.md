@@ -4,7 +4,6 @@
   Ваш браузер не поддерживает тег video.
 </video>
 
-<img src="https://github.com/amart302/amart302/blob/main/GIF/github-user-contribution.svg" />
 
 Привет, я TETRIX8!  
 👀 Обо мне:  
