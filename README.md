@@ -1,6 +1,6 @@
 # 💫 About Me:
 <video controls>
-  <source src="ak.mp4" type="video/mp4">
+  <source src="./ak.mp4" type="video/mp4">
   Ваш браузер не поддерживает тег video.
 </video>
 
