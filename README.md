@@ -4,6 +4,7 @@
   Ваш браузер не поддерживает тег video.
 </video>
 <img src="./хас.gif" alt="GitHub Contribution Graph" />
+<img src="./хас1.gif" alt="GitHub Contribution Graph" />
 
 
 Привет, я TETRIX8!  
