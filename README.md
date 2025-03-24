@@ -21,7 +21,7 @@
 📫 Как со мной связаться:  
 - Telegram: [@TETRIX8](https://t.me/TETRIX8)  
 - Email: [tetrixuno@gmail.com](mailto:tetrixuno@gmail.com)  
-- GitHub: [amart302](https://github.com/amart302)  
+  
 - LinkedIn: [Ваше имя](https://www.linkedin.com/in/ваш-профиль) (если есть)  
 
 😄 Пронouns:  
