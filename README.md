@@ -3,7 +3,7 @@
   <source src="./ak.mp4" type="video/mp4">
   Ваш браузер не поддерживает тег video.
 
-<img src="./хас1.gif" alt="GitHub Contribution Graph" />
+
 
 
 Привет, я TETRIX8!  
