@@ -22,7 +22,7 @@
 - Telegram: [@TETRIX8](https://t.me/TETRIX8)  
 - Email: [tetrixuno@gmail.com](mailto:tetrixuno@gmail.com)  
   
-- LinkedIn: [Ваше имя](https://akproject.lovable.app) (если есть)  
+- LinkedIn: [Ваше имя](https://akproject.lovable.app)   
 
 😄 Пронouns:  
 он/его (he/him)  
